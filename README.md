@@ -112,7 +112,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 2. Clone the repository:
 
 ```
-git clone https://github.com/Sagarshivalingappaathani/Public-Fund-Management.git
+git clone https://github.com/kavyashankarskkc0625/Fund-Management-Using-AI-and-Blockhain
 cd Public-Fund-Management/backend/
 ```
 
